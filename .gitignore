@@ -1,0 +1,9 @@
+*.session
+*.session-journal
+__pycache__/
+downloads/
+temp_downloads/
+*.pyc
+venv/
+.env
+config.local.py

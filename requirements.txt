@@ -1,0 +1,4 @@
+pyrogram>=2.0.106
+aiohttp>=3.9.0
+yt-dlp>=2024.0.0
+cryptg>=0.4.0
